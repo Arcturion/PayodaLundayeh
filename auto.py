@@ -7,7 +7,7 @@ from telepot.namedtuple import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboar
 from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
 from telepot.namedtuple import InlineQueryResultArticle, InlineQueryResultPhoto, InputTextMessageContent
 
-bot = telepot.Bot('1355362257:AAElq_EJOygVq4TlGC6d5pHVrhob768G4Ds')
+bot = telepot.Bot('rahasia')
 
 radar = '/root/data/sepuluh/current/citra_radar.png'
 
